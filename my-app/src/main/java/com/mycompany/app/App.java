@@ -10,6 +10,7 @@ public class App
         out.println("Circumference of the circle is equal to " + circle.getCircumference());
 
         Square square = new Square(12);
+        //Byłem tu
         out.println("Area of the square is equal to " + square.getField());
     }
 }
