@@ -12,6 +12,7 @@ public class App
         Circle circle1 = new Circle(123);
 
         Square square = new Square(12);
+        //Byłem tu
         out.println("Area of the square is equal to " + square.getField());
     }
 }
